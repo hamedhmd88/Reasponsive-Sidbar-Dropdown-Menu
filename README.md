@@ -3,7 +3,7 @@
 A menu in sidebar mode that is responsive and clicks on the hamburger reacts
 
 
-<strong>In desktop mode :</strong>
+<strong>In desktop mode : </strong>
 
 <a href="https://ibb.co/LR1QFrB"><img src="https://i.ibb.co/vqksFhf/1.png" alt="1" border="0"></a>
 

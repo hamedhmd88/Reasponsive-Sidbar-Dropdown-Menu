@@ -8,7 +8,7 @@ A menu in sidebar mode that is responsive and clicks on the hamburger reacts
 <a href="https://ibb.co/LR1QFrB"><img src="https://i.ibb.co/vqksFhf/1.png" alt="1" border="0"></a>
 
 
-<strong>After clicking on the hamburger in desktop mode :</strong>
+<strong>After clicking on the hamburger in desktop mode : </strong>
 
 
 <a href="https://ibb.co/pfLQdSq"><img src="https://i.ibb.co/McCf7md/2.png" alt="2" border="0"></a>

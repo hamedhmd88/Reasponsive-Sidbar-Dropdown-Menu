@@ -16,6 +16,7 @@ A menu in sidebar mode that is responsive and clicks on the hamburger reacts
 <hr>
 
 
+
 <strong> In mobile and tablet mode : </strong>
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/mBLddBC/3.png" alt="3" border="0"></a>
